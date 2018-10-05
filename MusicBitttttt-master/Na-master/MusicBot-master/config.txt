@@ -1,0 +1,5 @@
+token=NDk1MjI1NDk5ODMyODExNTIw.DpjD8g.ApvPfRK8VKP4uBvrUvvUTgtL6X4
+owner=445630664671232000
+prefix=N
+game=Type Nhelp
+stayinchannel=true
